@@ -15,7 +15,7 @@ Houston is a visual user interface for your [OriginTrail](https://origintrail.io
 2. Clone the project to your local machine by running: 
 
 ```
-git clone https://github.com/OriginTrail/houston-v4.git
+git clone https://github.com/Guinnessstache/houston-v4.git
 ```
 
 3. Enter "houston-v4" folder.
