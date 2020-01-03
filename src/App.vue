@@ -338,7 +338,7 @@
         this.submitted = 1;
         this.activeIndex2 = '1';
 
-        this.$socket.io.uri = `https://${this.node_address}:3000/?password=${this.houston_pass}`;
+        this.$socket.io.uri = `http://${this.node_address}:3000/?password=${this.houston_pass}`;
         this.$socket.open();
 
         setTimeout(() => {
