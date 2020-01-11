@@ -1,6 +1,6 @@
 # HOUSTON v4
 
-# Note:  This version was forked from the original to allow an unsecure connection to your OriginTrail node.  By using this you accept all risks associated with not having a secure connection to your node when making changes.  To be safe, it is recommended that you always restart your node after any changes using this program so that your node generates a new random Houston password making the password you used previously to connect to your node invalid
+# Note:  This version was forked from the original to allow an unsecure connection to your OriginTrail node.  By using this you accept all risks associated with not having a secure connection to your node when making changes.
 
 Houston is a visual user interface for your [OriginTrail](https://origintrail.io "OriginTrail") Node that makes operating it easy for everyone.
 
